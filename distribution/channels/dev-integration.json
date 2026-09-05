@@ -3,8 +3,8 @@
   "id": "dev-integration",
   "displayName": "Dev - Integration",
   "enabled": true,
-  "version": "DEV-INTEGRATION-016-CURRENT-MODULE-MERGE",
-  "downloadUrl": "https://github.com/XenuNL/runtime-cache/releases/download/cache-162/package-162.zip",
-  "sha256": "db6a465eff1050e8a6f970c179689fb2890f86508955a1005f8a4c55e3043d08",
-  "size": 1351658
+  "version": "DEV-INTEGRATION-017-R1",
+  "downloadUrl": "https://github.com/XenuNL/runtime-cache/releases/download/cache-163/package-163.zip",
+  "sha256": "422544d048ec0b214900d605254e809178330a2aff04d25d672fae0cd1337c15",
+  "size": 1352123
 }
