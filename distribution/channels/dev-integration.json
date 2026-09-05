@@ -3,8 +3,8 @@
   "id": "dev-integration",
   "displayName": "Dev - Integration",
   "enabled": true,
-  "version": "DEV-UI-007-COMPACT-RESIZE-R1",
-  "downloadUrl": "https://github.com/XenuNL/runtime-cache/releases/download/cache-159/package-159.zip",
-  "sha256": "fb96e9884f01501fb2da64d7926a3f3f0cfb94932e1a50f007089bd17d26f55d",
-  "size": 1334230
+  "version": "DEV-UI-007-COMPACT-RESIZE-R2",
+  "downloadUrl": "https://github.com/XenuNL/runtime-cache/releases/download/cache-160/package-160.zip",
+  "sha256": "827fae921df4ff909c58f822b39416ef4a00bc0d310c59c10258a7c5824752e1",
+  "size": 1334288
 }
