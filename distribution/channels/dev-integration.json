@@ -3,8 +3,8 @@
   "id": "dev-integration",
   "displayName": "Dev - Integration",
   "enabled": true,
-  "version": "DEV-UI-006-HOME-LAYOUT-CLEANUP",
-  "downloadUrl": "https://github.com/XenuNL/runtime-cache/releases/download/cache-155/package-155.zip",
-  "sha256": "d7db100c83e49d9a708e752927f96ceb099ef73a57e8f112b9b708bbaf5d80c6",
-  "size": 1332824
+  "version": "DEV-UI-006-HOME-LAYOUT-CLEANUP-R1",
+  "downloadUrl": "https://github.com/XenuNL/runtime-cache/releases/download/cache-156/package-156.zip",
+  "sha256": "05c0016ca6c8846781787402795877f12629b1f5957ba2d905c4dd6d28c85e7c",
+  "size": 1332921
 }
