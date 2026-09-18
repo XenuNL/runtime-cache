@@ -72,6 +72,12 @@
         "main-stable",
         "alpha-stable"
       ]
+    },
+    "9cb92785e81758ea4ff110bab999fdcf0153035a748512b60c006b2b220676b0": {
+      "channels": [
+        "main-stable",
+        "alpha-stable"
+      ]
     }
   }
 }
