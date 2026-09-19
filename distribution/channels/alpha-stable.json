@@ -1,10 +1,10 @@
 {
-  "schemaVersion": 1,
-  "id": "alpha-stable",
-  "displayName": "Alpha Stable",
-  "enabled": true,
-  "version": "v1.1.5",
-  "downloadUrl": "https://github.com/XenuNL/runtime-cache/releases/download/cache-216/package-216.zip",
-  "sha256": "f74622ac8281ea03f2c7c49d1035ec058c754cb0fd9c494345ef2584f352c3fc",
-  "size": 1521973
+    "schemaVersion":  1,
+    "id":  "alpha-stable",
+    "displayName":  "Alpha Stable",
+    "enabled":  true,
+    "version":  "v1.1.6",
+    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-284/package-284.zip",
+    "sha256":  "0f28dd0a0de0df7a9adf199eaba60be9dd8525de4f170df0d41b8d381049ac6e",
+    "size":  2670004
 }
