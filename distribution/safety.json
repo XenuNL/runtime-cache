@@ -12,9 +12,9 @@
       "message": "Temporarily disabled while compatibility with the latest game update is being verified."
     },
     "alpha-stable": {
-      "downloadAllowed": true,
-      "launchAllowed": true,
-      "message": ""
+      "downloadAllowed": false,
+      "launchAllowed": false,
+      "message": "Temporarily disabled while Stable HUD gating and disabled-state UI are being corrected."
     },
     "main-testing": {
       "downloadAllowed": false,
@@ -42,5 +42,5 @@
       "message": ""
     }
   },
-  "revision": 6
+  "revision": 7
 }
