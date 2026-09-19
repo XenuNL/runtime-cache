@@ -3,8 +3,8 @@
     "id":  "alpha-stable",
     "displayName":  "Alpha Stable",
     "enabled":  true,
-    "version":  "v1.1.7",
-    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-285/package-285.zip",
-    "sha256":  "032c6c711a9b2cecb5e662524c3b61416f392136de60175becec87014fb5844b",
-    "size":  2670455
+    "version":  "v1.1.8",
+    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-286/package-286.zip",
+    "sha256":  "afb6d2f8c611545a68268b014c1d3cd30337c9ea122cab8694ed4b1df7dfdf6a",
+    "size":  2670741
 }
