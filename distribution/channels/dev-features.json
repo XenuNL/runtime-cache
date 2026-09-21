@@ -3,8 +3,8 @@
     "id":  "dev-features",
     "displayName":  "Dev - Features",
     "enabled":  true,
-    "version":  "DEV-FEAT-042-R33-DIAG",
-    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-302/package-302.zip",
-    "sha256":  "85433cb7ec22cdc8f9b1ba6788fd86a438246a93f0e8659a96a57df836bef5d1",
-    "size":  2693658
+    "version":  "DEV-FEAT-042-R34",
+    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-303/package-303.zip",
+    "sha256":  "e3c76d20a1370651c681cb12bbbf1270dda4da947b70cc9419f504a5e65c0125",
+    "size":  2684153
 }
