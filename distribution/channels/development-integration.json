@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "id":  "development-integration",
     "displayName":  "Development Integration",
-    "enabled":  false,
-    "version":  "PREPARED",
-    "downloadUrl":  "",
-    "sha256":  "",
-    "size":  0
+    "enabled":  true,
+    "version":  "Development Integration - Alpha 0.20.3.1",
+    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-358/package-358.zip",
+    "sha256":  "974ea5f6499291ef051c4c547d2d4b2db0872d8e603da70bb5ae14f3f4eaac96",
+    "size":  1607841
 }
