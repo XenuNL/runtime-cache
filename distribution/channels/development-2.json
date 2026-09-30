@@ -3,8 +3,18 @@
     "id":  "development-2",
     "displayName":  "Development 2",
     "enabled":  true,
-    "version":  "Development 2 - Alpha 0.20.3.1",
-    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-357/package-357.zip",
-    "sha256":  "d64aa74fa350564597c5459305b18bde31ae443525f776ac2c3007a136dc77bc",
-    "size":  1607428
+    "version":  "Development 2 - Modular UI 001",
+    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-376/package-376.zip",
+    "sha256":  "9bcc2efbdbef18e68dca140c9f7585b222e83803f7a25800355f7d119e878a31",
+    "size":  704704,
+    "architecture":  "xmenu-modular-v1",
+    "activeModules":  [
+                          "Nickname Changer",
+                          "Lobby Tools",
+                          "Game Modification",
+                          "Setup Market",
+                          "Hide HUD",
+                          "Refresh Car Market",
+                          "Dev Tools"
+                      ]
 }
