@@ -2,43 +2,38 @@
     "schemaVersion":  1,
     "channels":  [
                      {
-                         "id":  "main-stable",
-                         "displayName":  "Main Stable",
+                         "id":  "stable-basic",
+                         "displayName":  "Stable Basic",
                          "listed":  true
                      },
                      {
-                         "id":  "alpha-stable",
-                         "displayName":  "Alpha Stable",
+                         "id":  "stable-advanced",
+                         "displayName":  "Stable Advanced",
                          "listed":  true
                      },
                      {
-                         "id":  "main-testing",
-                         "displayName":  "Main Testing",
+                         "id":  "stable-special-access",
+                         "displayName":  "Stable Special Access",
                          "listed":  true
                      },
                      {
-                         "id":  "alpha-testing",
-                         "displayName":  "Alpha Testing",
-                         "listed":  true
-                     },
-                     {
-                         "id":  "dev-unstable",
-                         "displayName":  "Dev - Issues",
-                         "listed":  true
-                     },
-                     {
-                         "id":  "dev-features",
-                         "displayName":  "Dev - Features",
-                         "listed":  true
-                     },
-                     {
-                         "id":  "dev-integration",
-                         "displayName":  "Dev - Integration",
+                         "id":  "tester",
+                         "displayName":  "Tester",
                          "listed":  true
                      },
                      {
                          "id":  "development-1",
                          "displayName":  "Development 1",
+                         "listed":  true
+                     },
+                     {
+                         "id":  "development-2",
+                         "displayName":  "Development 2",
+                         "listed":  true
+                     },
+                     {
+                         "id":  "development-integration",
+                         "displayName":  "Development Integration",
                          "listed":  true
                      }
                  ]
