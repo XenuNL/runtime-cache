@@ -67,15 +67,15 @@
                                            "message":  ""
                                        },
                      "development-2":  {
-                                           "downloadAllowed":  false,
-                                           "launchAllowed":  false,
-                                           "message":  "Preparing Development 2."
+                                           "downloadAllowed":  true,
+                                           "launchAllowed":  true,
+                                           "message":  ""
                                        },
                      "development-integration":  {
-                                                     "downloadAllowed":  false,
-                                                     "launchAllowed":  false,
-                                                     "message":  "Preparing Development Integration."
+                                                     "downloadAllowed":  true,
+                                                     "launchAllowed":  true,
+                                                     "message":  ""
                                                  }
                  },
-    "revision":  13
+    "revision":  14
 }
