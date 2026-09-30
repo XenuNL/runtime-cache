@@ -41,11 +41,41 @@
                                              "launchAllowed":  true,
                                              "message":  ""
                                          },
+                     "stable-basic":  {
+                                          "downloadAllowed":  false,
+                                          "launchAllowed":  false,
+                                          "message":  "Preparing the new Stable Basic branch."
+                                      },
+                     "stable-advanced":  {
+                                             "downloadAllowed":  false,
+                                             "launchAllowed":  false,
+                                             "message":  "Prepared for a future release after tester validation."
+                                         },
+                     "stable-special-access":  {
+                                                   "downloadAllowed":  false,
+                                                   "launchAllowed":  false,
+                                                   "message":  "No Special Access build is published yet."
+                                               },
+                     "tester":  {
+                                    "downloadAllowed":  false,
+                                    "launchAllowed":  false,
+                                    "message":  "Preparing the new Tester branch."
+                                },
                      "development-1":  {
-                                           "downloadAllowed":  true,
-                                           "launchAllowed":  true,
-                                           "message":  ""
-                                       }
+                                           "downloadAllowed":  false,
+                                           "launchAllowed":  false,
+                                           "message":  "Preparing Development 1."
+                                       },
+                     "development-2":  {
+                                           "downloadAllowed":  false,
+                                           "launchAllowed":  false,
+                                           "message":  "Preparing Development 2."
+                                       },
+                     "development-integration":  {
+                                                     "downloadAllowed":  false,
+                                                     "launchAllowed":  false,
+                                                     "message":  "Preparing Development Integration."
+                                                 }
                  },
     "revision":  12
 }
