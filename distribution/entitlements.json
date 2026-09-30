@@ -10,104 +10,67 @@
                                                                                                             "tester",
                                                                                                             "development-1",
                                                                                                             "development-2",
-                                                                                                            "development-integration",
-                                                                                                            "main-stable",
-                                                                                                            "alpha-stable",
-                                                                                                            "main-testing",
-                                                                                                            "alpha-testing",
-                                                                                                            "dev-unstable",
-                                                                                                            "dev-features",
-                                                                                                            "dev-integration"
+                                                                                                            "development-integration"
                                                                                                         ]
                                                                                        },
                   "7311797e87aa3a82f28307be7ba34cbab591afb6d32b951bd607c68ee2b11a12":  {
                                                                                            "channels":  [
                                                                                                             "stable-basic",
                                                                                                             "stable-advanced",
-                                                                                                            "tester",
-                                                                                                            "main-stable",
-                                                                                                            "alpha-stable",
-                                                                                                            "main-testing",
-                                                                                                            "alpha-testing"
+                                                                                                            "tester"
                                                                                                         ]
                                                                                        },
                   "32c202d3165669dcaac85a8cdf31acd30afe1891e920ad7d4d7e96a5625fec58":  {
                                                                                            "channels":  [
                                                                                                             "stable-basic",
                                                                                                             "stable-advanced",
-                                                                                                            "tester",
-                                                                                                            "main-stable",
-                                                                                                            "alpha-stable",
-                                                                                                            "main-testing",
-                                                                                                            "alpha-testing"
+                                                                                                            "tester"
                                                                                                         ]
                                                                                        },
                   "c54484ac95a20ffbd5554eca6020f32775e62cb9b97de978609baf0beed21218":  {
                                                                                            "channels":  [
                                                                                                             "stable-basic",
                                                                                                             "stable-advanced",
-                                                                                                            "tester",
-                                                                                                            "main-stable",
-                                                                                                            "alpha-stable",
-                                                                                                            "main-testing",
-                                                                                                            "alpha-testing"
+                                                                                                            "tester"
                                                                                                         ]
                                                                                        },
                   "3aa7073a76a3881754f30da598a035bbc567646447cda8183cfa9b7a1c45a8b8":  {
                                                                                            "channels":  [
                                                                                                             "stable-basic",
                                                                                                             "stable-advanced",
-                                                                                                            "tester",
-                                                                                                            "main-stable",
-                                                                                                            "alpha-stable",
-                                                                                                            "main-testing",
-                                                                                                            "alpha-testing"
+                                                                                                            "tester"
                                                                                                         ]
                                                                                        },
                   "4213f07badd32ecd2a8603b4d34f3a83ae16b25ca8ec67c89cd4db6407be69fe":  {
                                                                                            "channels":  [
                                                                                                             "stable-basic",
                                                                                                             "stable-advanced",
-                                                                                                            "tester",
-                                                                                                            "main-stable",
-                                                                                                            "alpha-stable",
-                                                                                                            "main-testing",
-                                                                                                            "alpha-testing"
+                                                                                                            "tester"
                                                                                                         ]
                                                                                        },
                   "126e1df0cc8dcd80824930123cf8a769aa7da1f5c17f9b00b3e950f7aa60ce39":  {
                                                                                            "channels":  [
                                                                                                             "stable-basic",
-                                                                                                            "stable-advanced",
-                                                                                                            "main-stable",
-                                                                                                            "alpha-stable"
+                                                                                                            "stable-advanced"
                                                                                                         ]
                                                                                        },
                   "7bebed2bddcda9b08cfdcff767057416ad929bb569c6b03e5f56ac1354149992":  {
                                                                                            "channels":  [
                                                                                                             "stable-basic",
                                                                                                             "stable-advanced",
-                                                                                                            "tester",
-                                                                                                            "main-stable",
-                                                                                                            "alpha-stable",
-                                                                                                            "main-testing",
-                                                                                                            "alpha-testing"
+                                                                                                            "tester"
                                                                                                         ]
                                                                                        },
                   "7dd5dd8433cec6e0395b1fbaf84f7410c8d9384eedf2ebb2c1e694a7541fb151":  {
                                                                                            "channels":  [
                                                                                                             "stable-basic",
-                                                                                                            "stable-advanced",
-                                                                                                            "main-stable",
-                                                                                                            "alpha-stable"
+                                                                                                            "stable-advanced"
                                                                                                         ]
                                                                                        },
                   "9cb92785e81758ea4ff110bab999fdcf0153035a748512b60c006b2b220676b0":  {
                                                                                            "channels":  [
                                                                                                             "stable-basic",
-                                                                                                            "stable-advanced",
-                                                                                                            "main-stable",
-                                                                                                            "alpha-stable"
+                                                                                                            "stable-advanced"
                                                                                                         ]
                                                                                        }
               }
