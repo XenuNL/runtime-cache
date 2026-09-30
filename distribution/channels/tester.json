@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "id":  "tester",
     "displayName":  "Tester",
-    "enabled":  false,
-    "version":  "PREPARED",
-    "downloadUrl":  "",
-    "sha256":  "",
-    "size":  0
+    "enabled":  true,
+    "version":  "Tester - Alpha 0.20.3.1",
+    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-360/package-360.zip",
+    "sha256":  "68c6b9abd306566a3b733aac8600a77468b6cb6be77f68dbf126ccfd958a808e",
+    "size":  1606380
 }
