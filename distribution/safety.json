@@ -42,9 +42,9 @@
       "message": ""
     },
     "stable-basic": {
-      "downloadAllowed": true,
-      "launchAllowed": true,
-      "message": ""
+      "downloadAllowed": false,
+      "launchAllowed": false,
+      "message": "Temporarily blocked while the accepted X-Menu visual shell is being ported to the modular runtime."
     },
     "stable-advanced": {
       "downloadAllowed": false,
@@ -57,9 +57,9 @@
       "message": "No Special Access build is published yet."
     },
     "tester": {
-      "downloadAllowed": true,
-      "launchAllowed": true,
-      "message": ""
+      "downloadAllowed": false,
+      "launchAllowed": false,
+      "message": "Temporarily blocked while the accepted X-Menu visual shell is being ported to the modular runtime."
     },
     "development-1": {
       "downloadAllowed": true,
@@ -77,5 +77,5 @@
       "message": ""
     }
   },
-  "revision": 21
+  "revision": 22
 }
