@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "id":  "stable-basic",
     "displayName":  "Stable Basic",
-    "enabled":  false,
-    "version":  "PREPARED",
-    "downloadUrl":  "",
-    "sha256":  "",
-    "size":  0
+    "enabled":  true,
+    "version":  "Stable Basic - Alpha 0.20.3.1",
+    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-359/package-359.zip",
+    "sha256":  "8e783bc6eb1fe3c669836f92be4b4b9a5369ff9f6e5b2de2a9806e54752f0a90",
+    "size":  1282643
 }
