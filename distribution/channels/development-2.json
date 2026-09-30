@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "id":  "development-2",
     "displayName":  "Development 2",
-    "enabled":  false,
-    "version":  "PREPARED",
-    "downloadUrl":  "",
-    "sha256":  "",
-    "size":  0
+    "enabled":  true,
+    "version":  "Development 2 - Alpha 0.20.3.1",
+    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-357/package-357.zip",
+    "sha256":  "d64aa74fa350564597c5459305b18bde31ae443525f776ac2c3007a136dc77bc",
+    "size":  1607428
 }
