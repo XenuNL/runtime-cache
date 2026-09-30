@@ -1,0 +1,10 @@
+{
+    "schemaVersion":  1,
+    "id":  "development-integration",
+    "displayName":  "Development Integration",
+    "enabled":  false,
+    "version":  "PREPARED",
+    "downloadUrl":  "",
+    "sha256":  "",
+    "size":  0
+}
