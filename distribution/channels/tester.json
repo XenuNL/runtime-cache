@@ -4,7 +4,7 @@
     "displayName":  "Tester",
     "enabled":  true,
     "version":  "Tester - Alpha 0.20.3.1",
-    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-360/package-360.zip",
-    "sha256":  "68c6b9abd306566a3b733aac8600a77468b6cb6be77f68dbf126ccfd958a808e",
-    "size":  1606380
+    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-362/package-362.zip",
+    "sha256":  "86c6d575a307fa520318173125a9fdde6be53620dccfbefb2f179cb86d0dbfb2",
+    "size":  1606689
 }
