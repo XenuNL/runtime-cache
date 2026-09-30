@@ -1,0 +1,10 @@
+{
+    "schemaVersion":  1,
+    "id":  "development-1",
+    "displayName":  "Development 1",
+    "enabled":  true,
+    "version":  "Development 1 - Alpha 0.20.3.1",
+    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-356/package-356.zip",
+    "sha256":  "25958184a5cb59be5b3176eac72024e81328b5b102129c5fce30f3fc1e90729d",
+    "size":  1607423
+}
