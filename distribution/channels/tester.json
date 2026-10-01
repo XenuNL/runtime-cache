@@ -3,8 +3,8 @@
     "id":  "tester",
     "displayName":  "Tester",
     "enabled":  true,
-    "version":  "Tester - Modular 001 R7",
-    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-382/package-382.zip",
-    "sha256":  "97ce03e4cd29df7ca3ed9a6d1f9bea50aeeda24524f3bb0b15f36fe91c5c8388",
-    "size":  689919
+    "version":  "Tester - Modular 001 R8",
+    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-389/package-389.zip",
+    "sha256":  "9f439d3c86ae5ffa65fc5b32c720d3afe9365841c14e8cf3bad0f576ee7be22f",
+    "size":  692541
 }
