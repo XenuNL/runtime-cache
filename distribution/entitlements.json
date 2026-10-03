@@ -85,6 +85,12 @@
                                                                                                             "stable-advanced",
                                                                                                             "tester"
                                                                                                         ]
+                                                                                       },
+                  "0040acf6656fb8c2244acc7976e18825e801571d536590504f206a0ddc7916a6":  {
+                                                                                           "channels":  [
+                                                                                                            "stable-basic",
+                                                                                                            "stable-advanced"
+                                                                                                        ]
                                                                                        }
               }
 }
