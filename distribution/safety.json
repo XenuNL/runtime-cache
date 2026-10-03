@@ -57,9 +57,9 @@
                                                    "message":  "No Special Access build is published yet."
                                                },
                      "tester":  {
-                                    "downloadAllowed":  false,
-                                    "launchAllowed":  false,
-                                    "message":  "Temporarily disabled while compatibility with DRO2 0.21.0 is being verified."
+                                    "downloadAllowed":  true,
+                                    "launchAllowed":  true,
+                                    "message":  ""
                                 },
                      "development-1":  {
                                            "downloadAllowed":  true,
@@ -77,5 +77,5 @@
                                                      "message":  ""
                                                  }
                  },
-    "revision":  60
+    "revision":  61
 }
