@@ -1,20 +1,20 @@
 {
-    "schemaVersion":  1,
-    "id":  "development-1",
-    "displayName":  "Development 1",
-    "enabled":  true,
-    "version":  "Development 1 - Unified 0.21.0 R8 Direct Car Market Refresh",
-    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-402/package-402.zip",
-    "sha256":  "0e71859fd6f8e1f39ec5a0e28f7dfe1b470e68409d116273a90e848d1613a4ee",
-    "size":  707558,
-    "architecture":  "xmenu-modular-v1",
-    "activeModules":  [
-                          "Nickname Changer",
-                          "Lobby Tools",
-                          "Game Modification",
-                          "Setup Market",
-                          "Hide HUD",
-                          "Refresh Car Market",
-                          "Dev Tools"
-                      ]
+  "schemaVersion": 1,
+  "id": "development-1",
+  "displayName": "Development 1",
+  "enabled": true,
+  "version": "V2.0.1",
+  "downloadUrl": "https://github.com/XenuNL/runtime-cache/releases/download/cache-402/package-402.zip",
+  "sha256": "0e71859fd6f8e1f39ec5a0e28f7dfe1b470e68409d116273a90e848d1613a4ee",
+  "size": 707558,
+  "architecture": "xmenu-modular-v1",
+  "activeModules": [
+    "Nickname Changer",
+    "Lobby Tools",
+    "Game Modification",
+    "Setup Market",
+    "Hide HUD",
+    "Refresh Car Market",
+    "Dev Tools"
+  ]
 }
