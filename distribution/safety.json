@@ -61,11 +61,6 @@
                                     "launchAllowed":  true,
                                     "message":  ""
                                 },
-                     "development-1":  {
-                                           "downloadAllowed":  true,
-                                           "launchAllowed":  true,
-                                           "message":  ""
-                                       },
                      "development-2":  {
                                            "downloadAllowed":  true,
                                            "launchAllowed":  true,
@@ -75,7 +70,12 @@
                                                      "downloadAllowed":  true,
                                                      "launchAllowed":  true,
                                                      "message":  ""
-                                                 }
+                                                 },
+                     "development-1":  {
+                                           "downloadAllowed":  true,
+                                           "launchAllowed":  true,
+                                           "message":  ""
+                                       }
                  },
-    "revision":  62
+    "revision":  63
 }
