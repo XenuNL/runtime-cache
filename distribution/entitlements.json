@@ -91,6 +91,12 @@
                                                                                                             "stable-basic",
                                                                                                             "stable-advanced"
                                                                                                         ]
+                                                                                       },
+                  "9080e67f3685c9f4f470c1d50650b14a09df39424e598f79760f6f8dfc314b8d":  {
+                                                                                           "channels":  [
+                                                                                                            "stable-basic",
+                                                                                                            "stable-advanced"
+                                                                                                        ]
                                                                                        }
               }
 }
