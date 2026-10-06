@@ -3,18 +3,18 @@
     "id":  "development-integration",
     "displayName":  "Development Integration",
     "enabled":  true,
-    "version":  "Development Integration - Modular UI 003",
-    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-385/package-385.zip",
-    "sha256":  "71e6e5c925ad0f4528bfcf65587c7cb2dd21864fb1520f270037dc2caa399f4e",
-    "size":  705876,
+    "version":  "V2.0.2-dev.37",
+    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-446/package-446.zip",
+    "sha256":  "7299540001ea540ac5a7b946685bfe3c5552a5ab5a160541e6641df6d5ad83ec",
+    "size":  1341540,
     "architecture":  "xmenu-modular-v1",
     "activeModules":  [
                           "Nickname Changer",
                           "Lobby Tools",
                           "Game Modification",
                           "Setup Market",
+                          "Car Generator",
                           "Hide HUD",
-                          "Refresh Car Market",
                           "Dev Tools"
                       ]
 }
