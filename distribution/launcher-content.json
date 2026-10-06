@@ -3,7 +3,7 @@
   "releaseNotes": {
     "title": "X-Menu V2.0.2",
     "body": "Setup Market now uses real vehicle names, defaults to Main, and includes expanded diagnostics. Car Generator is now available on Tester. Backend and update-compatibility work has also reduced unnecessary game-version-specific dependencies.",
-    "updatedUtc": "2026-10-07T18:00:00Z",
+    "updatedUtc": "2026-10-06T22:56:26Z",
     "patchNotesLabel": "Full patchnotes on Discord",
     "patchNotesUrl": "https://discord.gg/RsVQNUWPQq"
   },
