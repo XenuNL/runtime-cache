@@ -3,8 +3,8 @@
     "id":  "tester",
     "displayName":  "Tester",
     "enabled":  true,
-    "version":  "Tester - V2.0.3",
-    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-450/package-450.zip",
-    "sha256":  "2fdeb7a1225f02f020a30cb9fa347ca5d48ce04501884609841b5292cf4147f3",
-    "size":  1012098
+    "version":  "Tester - V2.0.4",
+    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-459/package-459.zip",
+    "sha256":  "ee07dc5140e71f480b566f3045acb86f6de83bfa5305391f4ba712a7d0a1e0b0",
+    "size":  1012357
 }
