@@ -3,8 +3,8 @@
     "id":  "stable-basic",
     "displayName":  "Stable Basic",
     "enabled":  true,
-    "version":  "Stable Basic - V2.0.5",
-    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-473/package-473.zip",
-    "sha256":  "a86b95cb7e0ff22cc56d725843bb5d78f77c5cec5b71bbc01663ebe54b8a30b2",
-    "size":  121989
+    "version":  "Stable Basic - V2.0.6",
+    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-482/package-482.zip",
+    "sha256":  "0615e3b10979dcc1f2db0fa0bef04a60bab4f94c2b61d3dd5240e97a7b4a0bad",
+    "size":  121947
 }
