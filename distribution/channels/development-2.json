@@ -3,10 +3,10 @@
     "id":  "development-2",
     "displayName":  "Development 2",
     "enabled":  true,
-    "version":  "V2.0.4-dev.susp-recalc-inventory.2",
-    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-467/package-467.zip",
-    "sha256":  "8dccbaf39ef40708a453edca9f491d4b02de52ff6e185a5a2716133c45a8e8e8",
-    "size":  1162332,
+    "version":  "V2.0.5-dev.bodypart-swapper.1",
+    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-488/package-488.zip",
+    "sha256":  "0be17b2beece59d42ebd3dc8ae4f5d65b8121a87a35c65eb05728ffb9b9d0859",
+    "size":  1175138,
     "architecture":  "xmenu-modular-v1",
     "activeModules":  [
                           "Nickname Changer",
@@ -15,6 +15,7 @@
                           "Setup Market",
                           "Car Generator",
                           "Hide HUD",
-                          "Dev Tools"
+                          "Dev Tools",
+                          "Bodypart Swapper"
                       ]
 }
