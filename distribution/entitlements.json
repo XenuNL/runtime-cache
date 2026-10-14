@@ -108,6 +108,12 @@
                                                                                            "channels":  [
                                                                                                             "stable-basic"
                                                                                                         ]
+                                                                                       },
+                  "ad7cbed4587e29606d9f0ba2d5d8497ee90c7b4288e22be472ee375f3676d3db":  {
+                                                                                           "channels":  [
+                                                                                                            "stable-basic",
+                                                                                                            "stable-advanced"
+                                                                                                        ]
                                                                                        }
               }
 }
