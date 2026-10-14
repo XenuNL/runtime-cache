@@ -1,10 +1,10 @@
 {
-    "schemaVersion":  1,
-    "id":  "tester",
-    "displayName":  "Tester",
-    "enabled":  true,
-    "version":  "Tester - V2.0.8",
-    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-497/package-497.zip",
-    "sha256":  "3328e01cb16629620215098cf721e59613eb1e27bc423a7288bf3973f4238e3e",
-    "size":  1019369
+  "schemaVersion": 1,
+  "id": "tester",
+  "displayName": "Tester",
+  "enabled": false,
+  "version": "Tester - V2.0.8",
+  "downloadUrl": "https://github.com/XenuNL/runtime-cache/releases/download/cache-497/package-497.zip",
+  "sha256": "3328e01cb16629620215098cf721e59613eb1e27bc423a7288bf3973f4238e3e",
+  "size": 1019369
 }
