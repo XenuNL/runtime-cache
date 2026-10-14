@@ -3,10 +3,10 @@
     "id":  "development-2",
     "displayName":  "Development 2",
     "enabled":  true,
-    "version":  "V2.0.6-dev.bodypart-saveroute.1",
-    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-489/package-489.zip",
-    "sha256":  "0de43e6ba6bbd6c69b86ec62bb9acbca1a554b92b5e8a2d9d33face611032456",
-    "size":  1176341,
+    "version":  "V2.0.7-dev.car-builder-preview.1",
+    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-490/package-490.zip",
+    "sha256":  "6ea9c32cd33696e67ad92b4a7a2ab8d2584a47c673da4a2b15223338966aa002",
+    "size":  30892249,
     "architecture":  "xmenu-modular-v1",
     "activeModules":  [
                           "Nickname Changer",
@@ -16,6 +16,7 @@
                           "Car Generator",
                           "Hide HUD",
                           "Dev Tools",
-                          "Bodypart Swapper"
+                          "Bodypart Swapper",
+                          "Car Builder"
                       ]
 }
