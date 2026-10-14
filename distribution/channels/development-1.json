@@ -3,10 +3,10 @@
     "id":  "development-1",
     "displayName":  "Development 1",
     "enabled":  true,
-    "version":  "V2.0.5-dev.main0211.12-setup-compat",
-    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-500/package-500.zip",
-    "sha256":  "3dc00fc75dc81fd4d4e51ba765319bd17f461a2e1f35417ab85a824bb7c202a3",
-    "size":  1592276,
+    "version":  "V2.0.5-dev.car-builder-preview.1",
+    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-503/package-503.zip",
+    "sha256":  "e9d67859a0f276d75f5eb0c98cf5c0289dd3121a9703f026eb79cb7742dadc7b",
+    "size":  31311612,
     "architecture":  "xmenu-modular-v1",
     "activeModules":  [
                           "Nickname Changer",
@@ -15,6 +15,7 @@
                           "Setup Market",
                           "Car Generator",
                           "Hide HUD",
-                          "Dev Tools"
+                          "Dev Tools",
+                          "Car Builder"
                       ]
 }
