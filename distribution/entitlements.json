@@ -2,6 +2,17 @@
     "schemaVersion":  1,
     "identity":  "steamid64-sha256",
     "users":  {
+                  "43af7fb909da5bfe0237f0fa482b2708be8ceb2e41f28159ef99d66600eaaa28":  {
+                                                                                           "channels":  [
+                                                                                                            "stable-basic",
+                                                                                                            "stable-advanced",
+                                                                                                            "stable-special-access",
+                                                                                                            "tester",
+                                                                                                            "development-1",
+                                                                                                            "development-2",
+                                                                                                            "development-integration"
+                                                                                                        ]
+                                                                                       },
                   "7311797e87aa3a82f28307be7ba34cbab591afb6d32b951bd607c68ee2b11a12":  {
                                                                                            "channels":  [
                                                                                                             "stable-basic",
