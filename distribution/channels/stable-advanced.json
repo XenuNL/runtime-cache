@@ -1,10 +1,10 @@
 {
-  "schemaVersion": 1,
-  "id": "stable-advanced",
-  "displayName": "Stable Advanced",
-  "enabled": false,
-  "version": "Stable Advanced - V2.0.8",
-  "downloadUrl": "https://github.com/XenuNL/runtime-cache/releases/download/cache-499/package-499.zip",
-  "sha256": "d3c8d631676c397431b29dee8f6fc33ea927cc9a13a98f1ff5d9f3323da62993",
-  "size": 287223
+    "schemaVersion":  1,
+    "id":  "stable-advanced",
+    "displayName":  "Stable Advanced",
+    "enabled":  false,
+    "version":  "Stable Advanced - V2.0.9",
+    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-519/package-519.zip",
+    "sha256":  "e8968ec8ccb406500fa22a2e9178e70d79fdde29e1e2bdff622314fe4c16e1a9",
+    "size":  287535
 }
