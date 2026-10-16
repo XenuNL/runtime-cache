@@ -47,9 +47,9 @@
       "message": ""
     },
     "stable-advanced": {
-      "downloadAllowed": true,
-      "launchAllowed": true,
-      "message": ""
+      "downloadAllowed": false,
+      "launchAllowed": false,
+      "message": "Stable Advanced is temporarily unavailable while compatibility with DRO2 0.21.2 is being verified."
     },
     "stable-special-access": {
       "downloadAllowed": false,
@@ -77,5 +77,5 @@
       "message": ""
     }
   },
-  "revision": 118
+  "revision": 119
 }
