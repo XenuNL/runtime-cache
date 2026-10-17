@@ -1,22 +1,17 @@
 {
-    "schemaVersion":  1,
-    "id":  "development-2",
-    "displayName":  "Development 2",
-    "enabled":  true,
-    "version":  "V2.0.7-dev.car-builder-preview.3-setup-compat",
-    "downloadUrl":  "https://github.com/XenuNL/runtime-cache/releases/download/cache-501/package-501.zip",
-    "sha256":  "551a08ae33a332a6930ca347f33459b053a98b8aee9cb103e56dedca4e59ad3f",
-    "size":  30892893,
-    "architecture":  "xmenu-modular-v1",
-    "activeModules":  [
-                          "Nickname Changer",
-                          "Lobby Tools",
-                          "Game Modification",
-                          "Setup Market",
-                          "Car Generator",
-                          "Hide HUD",
-                          "Dev Tools",
-                          "Bodypart Swapper",
-                          "Car Builder"
-                      ]
+  "schemaVersion": 1,
+  "id": "development-2",
+  "displayName": "Development 2",
+  "enabled": true,
+  "version": "V2.0.8-dev.discord-module-preview.1",
+  "downloadUrl": "https://github.com/XenuNL/runtime-cache/releases/download/cache-520/package-520.zip",
+  "sha256": "ac0e1effcfda3aaff9604576afeb93ba1fc544f8d2acef14c32b68cf4c8b341d",
+  "size": 290956,
+  "architecture": "xmenu-modular-v1",
+  "activeModules": [
+    "Nickname Changer",
+    "Setup Market",
+    "Game Modification",
+    "Hide HUD"
+  ]
 }
