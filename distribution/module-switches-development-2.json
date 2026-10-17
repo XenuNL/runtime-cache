@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "revision": "0",
+  "channels": {
+    "development-2": {
+      "modules": {
+        "nickname-changer": {
+          "enabled": false
+        },
+        "setup-market": {
+          "enabled": false
+        },
+        "game-modification": {
+          "enabled": false
+        },
+        "hide-hud": {
+          "enabled": false
+        }
+      }
+    }
+  }
+}
