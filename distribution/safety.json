@@ -47,9 +47,9 @@
                                           "message":  ""
                                       },
                      "stable-advanced":  {
-                                             "downloadAllowed":  true,
-                                             "launchAllowed":  true,
-                                             "message":  ""
+                                             "downloadAllowed":  false,
+                                             "launchAllowed":  false,
+                                             "message":  "Disabled due to game update"
                                          },
                      "stable-special-access":  {
                                                    "downloadAllowed":  false,
